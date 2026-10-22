@@ -1,0 +1,14 @@
+{
+  "name": "send-email",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.6"
+  },
+  "engines": {
+    "node": ">=22.18.0"
+  }
+}
